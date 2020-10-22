@@ -126,20 +126,20 @@
         Partner Organizations
       </h2>
       <div class="flex flex-row justify-center lg:justify-between mb-2 flex-wrap">
-        <img class="p-2 flex-shrink" :src="require('@/assets/img/partners/1 1.png')" />
-        <img class="p-2 flex-shrink" :src="require('@/assets/img/partners/1 2.png')" />
-        <img class="p-2 flex-shrink" :src="require('@/assets/img/partners/1 3.png')" />
+        <img class="p-2 flex-shrink-0" :src="require('@/assets/img/partners/1 1.png')" />
+        <img class="p-2 flex-shrink-0" :src="require('@/assets/img/partners/1 2.png')" />
+        <img class="p-2 flex-shrink-0" :src="require('@/assets/img/partners/1 3.png')" />
       </div>
       <div class="flex flex-row justify-center lg:justify-between mb-2 flex-wrap">
-        <img class="p-2 flex-shrink" :src="require('@/assets/img/partners/2 1.png')" />
-        <img class="p-2 flex-shrink" :src="require('@/assets/img/partners/2 2.png')" />
-        <img class="p-2 flex-shrink" :src="require('@/assets/img/partners/2 3.png')" />
+        <img class="p-2 flex-shrink-0" :src="require('@/assets/img/partners/2 1.png')" />
+        <img class="p-2 flex-shrink-0" :src="require('@/assets/img/partners/2 2.png')" />
+        <img class="p-2 flex-shrink-0" :src="require('@/assets/img/partners/2 3.png')" />
       </div>
       <div class="flex flex-row justify-center lg:justify-between mb-2 flex-wrap">
-        <img class="p-2 flex-shrink" :src="require('@/assets/img/partners/3 1.png')" />
-        <img class="p-2 flex-shrink" :src="require('@/assets/img/partners/3 2.png')" />
-        <img class="p-2 flex-shrink" :src="require('@/assets/img/partners/3 3.png')" />
-        <img class="p-2 flex-shrink" :src="require('@/assets/img/partners/3 4.png')" />
+        <img class="p-2 flex-shrink-0" :src="require('@/assets/img/partners/3 1.png')" />
+        <img class="p-2 flex-shrink-0" :src="require('@/assets/img/partners/3 2.png')" />
+        <img class="p-2 flex-shrink-0" :src="require('@/assets/img/partners/3 3.png')" />
+        <img class="p-2 flex-shrink-0" :src="require('@/assets/img/partners/3 4.png')" />
       </div>
     </section>
   </div>
